@@ -45,7 +45,7 @@ To automate and visualize sales insights from a coffee shop dataset using Python
 - Slicers: Month, Day, Product Type
 
 ### 📄 Page 2
-![Page 2](Page2.png)
+![page 2](page2.png)
 
 - Bar chart: Sales by Store Location
 - Line & Stacked Column: Sales over time
