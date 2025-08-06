@@ -12,11 +12,9 @@ To automate and visualize sales insights from a coffee shop dataset using Python
 - **Power BI**: Dashboard creation & visualization
 
 ---
-
 ## 🔁 Project Pipeline
 
 ![Pipeline](pipeline.png)
-
 ### 🔧 Steps:
 1. **Ingest** → Python script loads CSV to MySQL
 2. **Store** → Cleaned data stored in MySQL
@@ -25,16 +23,13 @@ To automate and visualize sales insights from a coffee shop dataset using Python
 5. **Result** → Dashboard insights with 100% data match
 
 ---
-
 ## 📈 Key KPIs
 - ✅ **Total Sales**
 - ✅ **Total Orders**
 - ✅ **Total Quantity Sold**
 
 ---
-
 ## 📊 Power BI Dashboard
-
 ### 🏠 Home Page
 ![Home Page](Home.png)
 
@@ -43,7 +38,6 @@ To automate and visualize sales insights from a coffee shop dataset using Python
 - Donut chart: Weekday vs Weekend
 - Line chart: Top 10 busy hours
 - Slicers: Month, Day, Product Type
-
 ### 📄 Page 2
 ![page 2](page2.png)
 
@@ -53,7 +47,6 @@ To automate and visualize sales insights from a coffee shop dataset using Python
 - Line Chart: Daily trend
 
 ---
-
 ## 📁 Project Structure
 
 ```
@@ -78,7 +71,6 @@ To automate and visualize sales insights from a coffee shop dataset using Python
 ```
 
 ---
-
 ## ✅ Outcome
 - ⏱️ End-to-end automation from raw data to dashboard
 - 🎯 Accurate insights verified with SQL & Power BI
